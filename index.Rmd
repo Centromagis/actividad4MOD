@@ -40,7 +40,7 @@ Base de datos y variables
 ```{r, eval=FALSE}
 # devtools::install_github("centromagis/paqueteMODELOS", force = TRUE)
 library(paqueteMODELOS)
-data(vivenda)
+data("vivenda")
 str(vivienda)
 ```
 
